@@ -1,3 +1,10 @@
+### a fork of vial-qmk with custom layer-based colors for iris-ce keyboard
+
+Relevant changes are in https://github.com/schuyberg/vial-qmk/tree/vial/keyboards/keebio/iris_ce
+
+Original docs below:
+----
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
